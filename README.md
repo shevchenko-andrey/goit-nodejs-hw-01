@@ -1,9 +1,9 @@
 # goit-nodejs-hw-01
 
-![listContacts](https://monosnap.com/file/VzmMNjm8o8nlN4kLDjKyIELsYtNye5)
+![listContacts](actionList.png)
 
-![getContactById](https://monosnap.com/file/wqvo0fPcMOP6r4OOBbHKbTg8WZ8uQu)
+![getContactById](actionGet.png)
 
-![addContact](https://monosnap.com/file/XSLZT60V3pzcu98jGR8n8Ebe3xlkyt)
+![addContact](actionAdd.png)
 
-![removeContact](https://monosnap.com/file/lXdJswJ5SnAC7nAWeEowotiOoYPiOT)
+![removeContact](actionRemove.png)
